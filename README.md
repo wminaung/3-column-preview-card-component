@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./mySS.jped)
+![this is my photo](./mySS.jped)
 
 ### Built with
 
